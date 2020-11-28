@@ -12,7 +12,7 @@ end
  
 
 def literal_aoh
-  names_q.sort
+  
 end
 
 def aoh_lookup(aoh, row, key)
