@@ -12,8 +12,7 @@ end
  
 
 def literal_aoh
-  # Using Array literal syntax only, build a nested array that uses the data in
-  # held in the constants
+  names_q.sort
 end
 
 def aoh_lookup(aoh, row, key)
