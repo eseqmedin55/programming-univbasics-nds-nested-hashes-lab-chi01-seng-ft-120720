@@ -12,6 +12,7 @@ end
  
 
 def literal_aoh
+  literal_aoh = names_q.sort()
   
  
 end
