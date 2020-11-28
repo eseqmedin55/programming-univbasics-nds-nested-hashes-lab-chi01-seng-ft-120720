@@ -12,9 +12,9 @@ end
  
 
 def literal_aoh
-  names_q = [ {:name=> "Don Gately", :occupation=> "Live-in Staff"}, {:name=> "Joelle van Dyne", :occupation=> "Radio Personality"}, {:name=> "pat Monteseian", :occupation=> "Staff"}, {"Kate Gompert", :occupation=> "None"}, {:name=> "Bruce Green", :occupation=> "Fan of Mildred"} ]
+  
+ 
 end
-end 
 
 def aoh_lookup(aoh, row, key)
 end
