@@ -12,7 +12,7 @@ end
  
 
 def literal_aoh
-  names_q = [{:name=>""}]
+  names_q = [{:name=>"Don Gately", :occupation=>"Live-in Staff"}, {:name=>"Joelle van Dyne"}]
 end
 
 def aoh_lookup(aoh, row, key)
